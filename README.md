@@ -2,13 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+<h1>Microsoft Azure Virtual Machine Creation</h1>
+This tutorial outlines the creation and implementation of a virtual machine..<br />
 
 <h2>Environments and Technologies Used</h2>
 
