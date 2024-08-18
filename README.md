@@ -12,9 +12,6 @@ This tutorial outlines the creation and implementation of a virtual machine..<br
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Wireshark
-- Powershell
 
 <h2>Operating Systems Used </h2>
 
@@ -38,7 +35,7 @@ This tutorial outlines the creation and implementation of a virtual machine..<br
 
 </p>
 <p>
-Step 1 is to create a resource group for both Virtual Machine One and Virtual Machine 2 will be in suring this process.
+Step 1: Create a resource group for both Virtual Machine One and Virtual Machine 2 will be in suring this process.
 </p>
 <br />
 
@@ -50,7 +47,7 @@ Step 1 is to create a resource group for both Virtual Machine One and Virtual Ma
 
 </p>
 <p>
-Step 2 is to start creating one virtual machine. In this case we will start with a Windows 10 Machine.
+Step 2: Create one virtual machine. In this case we will start with a Windows 10 Machine.
 </p>
 <br />
 
@@ -63,7 +60,7 @@ Step 2 is to start creating one virtual machine. In this case we will start with
 
 </p>
 <p>
-Step 3 is to create the second virtual machine. In this case we are using Linus Ubuntu. When creating this machine we need to connect it to the network of the first virtual machine.
+Step 3: Create the second virtual machine. In this case we are using Linus Ubuntu. When creating this machine we need to connect it to the network of the first virtual machine.
 </p>
 <br />
 
@@ -74,4 +71,12 @@ Step 3 is to create the second virtual machine. In this case we are using Linus 
 
 </p>
 <p>
-Step 3 continued: Both Virtual Machines will require a username and password. We need to create them and remember them for both virtual machines
+Step 3 continued: Both Virtual Machines will require a username and password. We need to create them and remember them for both virtual machines.
+
+![Lab 2 Screenshot 2](https://github.com/user-attachments/assets/09634dd6-b538-4d56-a0f1-d87dc2866178)
+
+
+
+</p>
+<p>
+Step 4: Both Virtual Machines should now be created and able to be used.
