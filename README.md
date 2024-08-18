@@ -26,7 +26,6 @@ This tutorial outlines the creation and implementation of a virtual machine..<br
 - Azure Resource Groups
 - Virtual Machine I (Windows 10)
 - Virtual Machine II (Linux Ubuntu Server 24.04 LTS - x64 Gen2)
-- Wireshark
 
 <h2>Creation Steps</h2>
 
@@ -76,12 +75,3 @@ Step 3 is to create the second virtual machine. In this case we are using Linus 
 </p>
 <p>
 Step 3 continued: Both Virtual Machines will require a username and password. We need to create them and remember them for both virtual machines
-</p>
-<br />
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
