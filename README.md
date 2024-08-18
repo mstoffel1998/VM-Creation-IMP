@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="[https://i.imgur.com/Clzj7Xs.png](https://abouconde.com/wp-content/uploads/2018/12/virtual-machine.png?w=512)" alt="Azure Virtual Machine"/>
 </p>
 
 <h1>Microsoft Azure Virtual Machine Creation</h1>
