@@ -1,5 +1,6 @@
 <p align="center">
-<img src="[https://i.imgur.com/Clzj7Xs.png](https://abouconde.com/wp-content/uploads/2018/12/virtual-machine.png?w=512)" alt="Azure Virtual Machine"/>
+<img src="[![Azure virtual machine logo](https://github.com/user-attachments/assets/46d0a983-777f-4fd6-b0c5-49bd6e8a73d9)
+" alt="Azure Virtual Machine"/>
 </p>
 
 <h1>Microsoft Azure Virtual Machine Creation</h1>
