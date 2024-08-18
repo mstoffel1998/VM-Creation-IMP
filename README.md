@@ -1,7 +1,10 @@
 <p align="center">
-<img src="[![Azure virtual machine logo](https://github.com/user-attachments/assets/46d0a983-777f-4fd6-b0c5-49bd6e8a73d9)
-" alt="Azure Virtual Machine"/>
-</p>
+
+
+![Azure virtual machine logo](https://github.com/user-attachments/assets/5e5cd689-5231-4fd2-8cf4-0d8531be3c9f)
+
+
+
 
 <h1>Microsoft Azure Virtual Machine Creation</h1>
 This tutorial outlines the creation and implementation of a virtual machine..<br />
@@ -10,38 +13,71 @@ This tutorial outlines the creation and implementation of a virtual machine..<br
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Wireshark
+- Powershell
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- Linux Ubuntu Server 24.04 LTS - x64 Gen2
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Azure Resource Groups
+- Virtual Machine I (Windows 10)
+- Virtual Machine II (Linux Ubuntu Server 24.04 LTS - x64 Gen2)
+- Wireshark
 
-<h2>Installation Steps</h2>
+<h2>Creation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+![Lab 2 Screenshot 1](https://github.com/user-attachments/assets/664a0ad6-ab2e-4d7c-a550-6352306ccf22)
+
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 1 is to create a resource group for both Virtual Machine One and Virtual Machine 2 will be in suring this process.
+</p>
+<br />
+
+<p>
+  
+![Winodws virutal machine](https://github.com/user-attachments/assets/0c8bc60e-3677-47a3-8c4b-e56af8e7c6d3)
+
+
+
+</p>
+<p>
+Step 2 is to start creating one virtual machine. In this case we will start with a Windows 10 Machine.
+</p>
+<br />
+
+
+![Linux vm](https://github.com/user-attachments/assets/d296cfa7-0759-412a-ac0f-e33941f31f50)
+
+![Virtual Network](https://github.com/user-attachments/assets/5faf9b5e-311e-4dd2-a250-2ba08c045912)
+
+
+
+</p>
+<p>
+Step 3 is to create the second virtual machine. In this case we are using Linus Ubuntu. When creating this machine we need to connect it to the network of the first virtual machine.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Size and Username and Password](https://github.com/user-attachments/assets/89e58e4c-41c4-4d3a-94bf-68f49b34a87a)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 3 continued: Both Virtual Machines will require a username and password. We need to create them and remember them for both virtual machines
 </p>
 <br />
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
